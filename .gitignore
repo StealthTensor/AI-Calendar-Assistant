@@ -1,0 +1,7 @@
+.env
+app.log
+notifications.log
+Journal/*
+__pycache__/
+venv/
+*.pyc

@@ -1,0 +1,74 @@
+[
+  {
+    "time": "06:30",
+    "task": "Wake UP",
+    "duration": "1h30m",
+    "notes": "Prepare coffee and plan day"
+  },
+  {
+    "time": "08:00",
+    "task": "Web Dev",
+    "duration": "2h",
+    "notes": "Focus on CSS and responsive design"
+  },
+  {
+    "time": "10:00",
+    "task": "Project",
+    "duration": "1h",
+    "notes": "Review last week's code"
+  },
+  {
+    "time": "11:00",
+    "task": "GitHub, Project",
+    "duration": "1h50m",
+    "notes": "Push updates and review PRs"
+  },
+  {
+    "time": "12:50",
+    "task": "Book Reading",
+    "duration": "30m",
+    "notes": "Read Chapter 3 of 'Clean Code'"
+  },
+  {
+    "time": "13:20",
+    "task": "Lunch / Rest",
+    "duration": "40m",
+    "notes": "Take a walk after eating"
+  },
+  {
+    "time": "14:00",
+    "task": "JS + Project Work",
+    "duration": "3h",
+    "notes": "Implement new feature X"
+  },
+  {
+    "time": "17:00",
+    "task": "Shuttle / Break",
+    "duration": "1h",
+    "notes": "Play with friends"
+  },
+  {
+    "time": "18:00",
+    "task": "Chill / Youtube CS",
+    "duration": "1h",
+    "notes": "Watch algorithms tutorial"
+  },
+  {
+    "time": "19:00",
+    "task": "Build",
+    "duration": "2h",
+    "notes": "Test and deploy app"
+  },
+  {
+    "time": "21:00",
+    "task": "Warzone / Chill",
+    "duration": "1h30m",
+    "notes": "Relax with a few matches"
+  },
+  {
+    "time": "22:30",
+    "task": "Sleep",
+    "duration": "30m",
+    "notes": "Wind down with music"
+  }
+]
