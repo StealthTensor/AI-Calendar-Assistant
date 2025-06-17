@@ -11,7 +11,7 @@ This application helps you track tasks from a timetable, receive desktop notific
 1. Clone the repository:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/StealthTensor/AI-Calendar-Assistant
    cd Calander
    ```
 2. Create a virtual environment and install dependencies:
